@@ -26,7 +26,7 @@ Si quieres proponer ideas, mejorar sistemas o aportar comandos nuevos para tu bo
 
 En **Sparkify World** puedes:
 
-- Dar sugerencias para nuevos productos y sistemas  
+- Dar sugerencias para nuevos proyectos y sistemas  
 - Proponer comandos para tu bot  
 - Ayudar en futuras actualizaciones  
 - Ser parte del crecimiento real del proyecto  
