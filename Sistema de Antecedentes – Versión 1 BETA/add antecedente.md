@@ -1,5 +1,7 @@
-# /addantecedente
-```js
+# Es un comando de slash /addantecedente
+
+
+```
 
 $nomention
 $var[userID;$findUser[$message[1;usuario];no]]
