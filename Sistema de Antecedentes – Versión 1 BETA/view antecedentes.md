@@ -37,8 +37,7 @@ $thumbnail[https://i.imgur.com/XhPEVEt.png]
 
 
 $newSelectMenu[Antecedentes;0;1;Choose some option]
-$addSelectMenuOption[Antecedentes;Página 1;Página_1-$authorID-$var[userID];]
-$if[$json[cntAnt]>=6]$addSelectMenuOption[Antecedentes;Página 2;Página_2-$authorID-$var[userID];]$endif
+$addSelectMenuOption[Antecedentes;Página 1;Página_1-$authorID-$var[userID];]$addSelectMenuOption[Antecedentes;Página 2;Página_2-$authorID-$var[userID];]
 
 $endif
 ```
